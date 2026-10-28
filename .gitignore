@@ -14,3 +14,5 @@ venv/
 # OS
 .DS_Store
 .env
+# Downloaded leaderboard storage bucket (large)
+blue_teams/
